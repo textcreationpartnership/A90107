@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the dying uuords of Ockanickon, an Indian king, spoken to Jahkursoe, his brother's son, whom he appointed king after him.</title>
+            <author>Ockanikon, d. 1682?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90107</idno>
+            <idno type="STC">Wing O127</idno>
+            <idno type="STC">ESTC R181171</idno>
+            <idno type="EEBO-CITATION">45097878</idno>
+            <idno type="OCLC">ocm 45097878</idno>
+            <idno type="VID">171457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171457)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the dying uuords of Ockanickon, an Indian king, spoken to Jahkursoe, his brother's son, whom he appointed king after him.</title>
+                  <author>Ockanikon, d. 1682?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark, bookseller, in George-Yard in Lombard-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ockanikon, d. 1682?</term>
+               <term>Jahkursoe.</term>
+               <term>Indians of North America --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171457:1"/>
+            <p>A TRUE ACCOUNT OF THE <hi>Dying VVords</hi> OF Ockanickon, AN <hi>Indian King,</hi> Spoken to JAHKURSOE, His Brother's Son, whom he appointed KING AFTER HIM.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark,</hi> Bookſeller, in <hi>George-Yard</hi> in <hi>Lombard-ſtreet,</hi> 1682.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:171457:2"/>
+            <pb facs="tcp:171457:2"/>
+            <head>A LETTER ſent from <hi>New-Jerſey</hi> in <hi>America</hi> to a Friend in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Having this ſhort opportunity, have no<g ref="char:EOLhyphen"/>thing to preſent thee with but the Dying Words of an <hi>Indian</hi> King, who died in <hi>Burlington,</hi> and was Buried amongst Friends according to his deſire; and at his Burial ma<g ref="char:EOLhyphen"/>ny Tears were ſhed both by the <hi>Indians</hi> and <hi>Engliſh;</hi> if thou art willing to Print it, I deſire thee to ſend me ſome; So in Love and great haſt, I reſt thy friend,</p>
+            <closer>
+               <dateline>Burlington <date>the 12th of the 5th. Month, 1682.</date>
+               </dateline>
+               <signed>John Cripps.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171457:3"/>
+            <pb n="5" facs="tcp:171457:3"/>
+            <head>A TRUE ACCOUNT Of the Dying Words of Ockanichon, Spoken to JAHKURSOE, WHOM He appointed KING after Him; Spoken in the Preſence of ſeveral, who were Eye and Ear Witneſſes to the Truth thereof.</head>
+            <p>IT was my deſire that <hi>My Brother</hi>'s <hi>Son, Jahkurſoe</hi> ſhould be ſent for to come to me to hear my <hi>laſt Words,</hi> whom I have oppointed KING after me. <hi>My Brother's Son,</hi> This day I deliver my Heart into thy Boſom, and would have thee love that which is
+<pb n="6" facs="tcp:171457:4"/>
+               <hi>Good,</hi> and to keep <hi>good Company,</hi> and to refuſe that which is <hi>Evil;</hi> and to avoid <hi>bad Company.</hi> Now inaſmuch as I have delivered my Heart into thy Boſom, I alſo deliver my Boſom to keep my Heart therein; therefore alwaies be ſure to walk in a <hi>good Path,</hi> and never depart out of it. And if any <hi>Indians</hi> ſhould ſpeak any evil of <hi>Indians</hi> or <hi>Chriſtians,</hi> do not joyn with it, but to look to that which is <hi>Good,</hi> and to joyn with the ſame alwaies. Look at the Sun from the Riſing of it to the Setting of the ſame. In Speeches that ſhall be made between the <hi>Indians</hi> and the <hi>Chriſtians,</hi> if any thing be ſpoke that is evil, do not joyn with that, but joyn with that which is good; and when Speeches are made, do not thou ſpeak firſt, but let all ſpeak before thee, and take good notice what each man ſpeaks, and when thou haſt heard all, joyn to that which is good. <hi>Brother's Son,</hi> I would have thee to <hi>cleanſe</hi> thy <hi>Ears,</hi> and tak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all <hi>Darkneſs</hi> and <hi>foulneſs</hi> out, that thou <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſt take notice of that which is <hi>Good</hi> and <hi>Evil,</hi> and then to joyn with that which is <hi>Good,</hi> and refuſe the <hi>Evil;</hi> and alſo to cleanſe
+<pb n="7" facs="tcp:171457:4"/>thy <hi>Eyes</hi> that thou maiſt ſee both <hi>Good</hi> and <hi>Evil:</hi> and if thou ſee any <hi>Evil</hi> do not joyn with it, but joyn to that which is <hi>Good Brother's Son,</hi> Thou haſt heard all that is paſt: now I would have thee to ſtand up in time of <hi>Speeches,</hi> and to ſtand in my <hi>Steps,</hi> and follow my <hi>Speeches</hi> as I have ſaid before thee, then what thou doſt deſire in <hi>Reaſon</hi> will be granted thee. Why ſhould thou not <hi>follow</hi> my <hi>Example</hi> inaſ<g ref="char:EOLhyphen"/>much as I have had a mind to do that which is <hi>Good,</hi> and therefore do thou alſo the ſame. Whereas <hi>Sehoppy</hi> and <hi>Swanpis</hi> were appointed Kings by me in my ſtead, and I underſtanding by my Doctor that <hi>Sehoppy</hi> ſecretly adviſed him not to Cure me, and they both being with me at <hi>John Hollingſ<g ref="char:EOLhyphen"/>heads</hi> Houſe, there I my ſelf ſee by them that they were given more to <hi>Drink</hi> than to take notice of my <hi>laſt Words,</hi> for I had a mind to make a Speech to them, and to my <hi>Brethren</hi> the <hi>Engliſh Commiſſioners,</hi> there<g ref="char:EOLhyphen"/>fore I refuſed them to be Kings after me in my ſtead, and have choſen my Brother's Son <hi>Jahkurſoe</hi> in their ſtead to ſucceed me.</p>
+            <p>
+               <pb n="8" facs="tcp:171457:5"/>
+               <hi>Brother's Son,</hi>
+               <lb/>
+I deſire thee to be plain and fair with all both <hi>Indians</hi> and <hi>Chriſtians,</hi> as I have been. I am very weak, otherwiſe I would have ſpoken more; and in Teſtimony of the <hi>Truth</hi> of this, I have hereunto ſet my Hand in the preſence of us,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>Witneſſes,</head>
+                     <item>Thomas Budd,</item>
+                     <item>Sarah Biddle,</item>
+                     <item>Mary Cripps,</item>
+                     <item>Anne Browne,</item>
+                     <item>Jane Noble.</item>
+                  </list>
+               </signed>
+               <signed>
+                  <list>
+                     <head>An imitation of the <hi>Indian</hi> Marks,</head>
+                     <item>
+                        <figure/>The Mark of <hi>Ockanickon,</hi> King, now deceaſed.</item>
+                     <item>
+                        <figure/> The Mark of <hi>Jahkurſoe,</hi> the intended King.</item>
+                     <item>
+                        <figure/> The Mark of <hi>Matollionequay,</hi> Wife to <hi>Ockanickon</hi> the Old King.</item>
+                     <item>
+                        <figure/> The Mark of <hi>Nemooponent,</hi> a Prince.</item>
+                     <item>
+                        <figure/> The Mark of <hi>Tellinggriſee,</hi> the <hi>Indian</hi> Doctor</item>
+                  </list>
+               </signed>
+               <signed>
+                  <hi>Henry Jacob Falckinburs,</hi> Interpreter.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171457:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
